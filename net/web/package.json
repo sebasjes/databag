@@ -20,7 +20,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/user-event": "^13.2.1",
     "antd": "^5.0.4",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "base-64": "^1.0.0",
     "crypto-js": "^4.1.1",
     "dompurify": "^3.0.1",
